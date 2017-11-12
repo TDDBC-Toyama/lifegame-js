@@ -1,0 +1,25 @@
+{
+  "name": "lifegame-js",
+  "version": "1.0.0",
+  "description": "## How to run ``` make ```",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meg-k/lifegame-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meg-k/lifegame-js/issues"
+  },
+  "homepage": "https://github.com/meg-k/lifegame-js#readme",
+  "devDependencies": {
+    "babel-preset-power-assert": "^1.0.0",
+    "jest": "^21.2.1",
+    "power-assert": "^1.4.4"
+  }
+}
